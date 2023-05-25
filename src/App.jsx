@@ -2,7 +2,6 @@ import './App.css'
 import axios from 'axios'
 import { useState, useEffect } from 'react'
 import Card from './card/Card'
-import Sobre from './sobre/Sobre';
 
 function App() {
 
